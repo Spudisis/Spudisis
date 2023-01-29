@@ -2,6 +2,8 @@
 You can see my latest projects in my profile. 
 At the moment I am rewriting my site-helper for the game, the current and latest code can be seen in the <b>genshinCalc</b> repository on the <b>newBackend</b> branch.
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -19,3 +21,10 @@ At the moment I am rewriting my site-helper for the game, the current and latest
 
 [![codewars](https://www.codewars.com/users/Spudisisbb/badges/large)](https://www.codewars.com/users/Spudisisbb)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spudisis)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<div align="center">
+  <h1>Contact me</h1>
+<ul style="list-style: none"><li><a href='https://t.me/Amevora'>Telegram</a></li></ul>
+<div align="center">
