@@ -1,7 +1,7 @@
 ### Hi there, i'm ReactJS developer
 You can see my latest projects in my profile. 
-At the moment I am rewriting my site-helper for the game, the current and latest code can be seen in the <b>genshinCalc</b> repository on the <b>newBackend</b> branch.<br>
-Worked with technologies such as <b>ReactJS, styled-components, css-modules, preprocessors (sass/scss, less), TypeScript, REST API, Formik, Redux Toolkit.</b>
+<br>
+Worked with technologies such as <b>ReactJS, styled-components, css-modules, preprocessors (sass/scss), TypeScript, REST API, Formik, Redux Toolkit.</b>
 
 <div>
 <h1>Languages and Tools</h1>
