@@ -1,7 +1,7 @@
 ### Hi there, i'm ReactJS developer
 You can see my latest projects in my profile. 
 <br>
-Worked with technologies such as <b>ReactJS, styled-components, css-modules, preprocessors (sass/scss), TypeScript, REST API, Formik, Redux Toolkit.</b>
+Worked with technologies such as <b>ReactJS, styled-components, css-modules, preprocessors (sass/scss), TypeScript, REST API, React hook form, Redux Toolkit.</b>
 
 <div>
 <h1>Languages and Tools</h1>
