@@ -1,4 +1,4 @@
-### Hi there, i'm ReactJS developer
+###JS developer
 You can see my latest projects in my profile. 
 
 <h1>Languages and Tools</h1>
