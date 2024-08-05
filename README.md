@@ -1,4 +1,4 @@
-##JS developer
+### JS developer
 
 You can see my latest projects in my profile. 
 
